@@ -1,0 +1,16 @@
+.home-banner h1 {
+    font-size: 80px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+
+.home-banner p {
+    font-weight: 600;
+}
+
+.banner {
+    background-color: rgba(255, 255, 255, 0.822);
+    padding: 50px 25px;
+    border-radius: 20px;
+    color: rgb(227 95 1);
+}

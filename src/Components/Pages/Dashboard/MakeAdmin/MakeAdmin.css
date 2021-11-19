@@ -1,0 +1,30 @@
+.newsletter .content .form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius:0;
+}
+.newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+}
+.newsletter .content .btn {
+    min-height: 50px; 
+    border-radius:0;
+    background: #243c4f;
+    color: #fff;
+    font-weight:600;
+}
+
+.input-group .btn {
+    position: relative;
+    z-index: 2;
+    background-color: rgb(246, 123, 51);
+    color: white;
+}
+button.log-btn {
+    color: #fb6f1d;
+    border: navajowhite;
+    background: none;
+    font-size: 18px;
+    font-weight: 600;
+}
